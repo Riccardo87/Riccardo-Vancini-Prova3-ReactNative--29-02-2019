@@ -1,0 +1,3 @@
+rootProject.name = 'prova3'
+
+include ':app'
